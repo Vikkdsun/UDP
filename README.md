@@ -1,4 +1,4 @@
-![image](https://github.com/Vikkdsun/UDP/assets/114153159/1b562df7-f085-4f50-8afb-c47337ac4fca)# UDP🎈
+# UDP🎈
 A UDP project of Verilog.
 
 ## 一个UDP以太网协议栈的项目
