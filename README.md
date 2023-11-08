@@ -1,4 +1,4 @@
-# UDP🎈
+![image](https://github.com/Vikkdsun/UDP/assets/114153159/1b562df7-f085-4f50-8afb-c47337ac4fca)# UDP🎈
 A UDP project of Verilog.
 
 ## 一个UDP以太网协议栈的项目
@@ -28,10 +28,14 @@ A UDP project of Verilog.
 此外在接收时接收到的目的IP，并且报文表示请求，发送一个回复信号和这个目的IP给发送端，发送端接收这个目的IP如果是FPGA的，那么把本地MAC和IP在回复时发上去。
 
 ### UDP层
+![image](https://github.com/Vikkdsun/UDP/assets/114153159/3d64292f-648a-4f4d-9dd4-bba9266b352d)
+
 
 没啥好说的，长度这里和IP一样。
 
 ### ICMP层
+![image](https://github.com/Vikkdsun/UDP/assets/114153159/fa27c8b5-b3a0-4a72-8fd3-5b9f4283b87f)
+
 
 类型：8=请求 0=回复 标识符： windows固定为1  序号：发一次请求 增加1 同时请求和回复序号相同。
 
