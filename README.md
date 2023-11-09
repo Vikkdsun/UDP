@@ -43,4 +43,6 @@ A UDP project of Verilog.
 
 目前已更新RX部分，还有TX部分、仲裁、ARP表、GMII2RGMII等。
 
+2023/11/9 10:57  ：  更新了MAC_tx模块，已知和常规操作比慢了一个周期，还在找优化策略。
+
 等待更新...
